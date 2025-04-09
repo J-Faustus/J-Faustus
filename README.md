@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**J-Faustus/J-Faustus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<details>
+  <summary>About Me</summary>
+  He/Him/His
+  
+  Colorado School of Mines Undergrad
+  
+  Languages:
+  
+  | Rank | Language |
+  |-----:|----------|
+  |     1| Python   |
+  |     2| Java     |
 
-Here are some ideas to get you started:
+</details>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+--More coming soon--
