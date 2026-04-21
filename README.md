@@ -17,8 +17,12 @@
   
   | Rank | Language |
   |-----:|----------|
-  |     1| Python   |
-  |     2| Java     |
+  |     1| Rust     |
+  |     2| Python   |
+  |     3| C++      |
+  |     4| C        |
+  |     5| Java     |
+  |     6| x64 ASM  |
 
 </details>
 
